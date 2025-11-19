@@ -1,5 +1,5 @@
 // API Base Configuration
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://80d6f4f86866.ngrok-free.app'
+const API_BASE_URL = 'https://80d6f4f86866.ngrok-free.app'
 
 // Helper function to get auth token
 const getAuthToken = () => {
